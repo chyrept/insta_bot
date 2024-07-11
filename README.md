@@ -3,9 +3,11 @@ PHP Telegram Bot For Instagram
 
 Telegram bot to get an instagram feed, photos, GIFs, and videos, right on the telegram app without installing any additional apps.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username= chyrept&exclude_repo= insta_bot)
+
 ## ➪JOIN OUR TELEGRAM☠︎︎
 
-![Join Telegram](https://raw.githubusercontent.com/saikothasan/saikothasan.github.io/main/images.png)(https://t.me/cyberxbd)
+(https://t.me/cyberxbd)
 
 1 - Post Tools Python & PHP ✅️
 2 - Combo - Config - CC - BINs ✅️
